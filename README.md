@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Mikehaos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mikehaos/Mikehaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... yo mom
+- 🌱 I’m currently learning ... yo mom
+- 💞️ I’m looking to collaborate with ... yo mom
+- 📫 How to reach me ... yo mom house
